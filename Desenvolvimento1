@@ -1,0 +1,45 @@
+<!--Desenvolvimento 01-->
+<!--Aluno: Alex Barros-->
+<!--Data: 25/01/2023-->
+
+
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Carregando...</title>
+  <base href="/">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="theme-color" content="#4e8ef7"/>
+  <link rel="icon" id="instance-favicon" type="image/x-icon"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Symbols+Outlined|Material+Symbols+Rounded">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <style id="zoom-css-anchor" type="text/css"></style>
+<link rel="stylesheet" href="styles.438625321fc19daab0d8.css"></head>
+
+<body>
+  <!--[if lt IE 10]>
+  <p>
+    You are using an <strong>outdated</strong> browser.
+    Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+  </p>
+  <![endif]-->
+  <noscript>
+    <p>
+      This page requires JavaScript to work properly. Please enable JavaScript in your browser.
+    </p>
+  </noscript>
+  <app-root></app-root>
+  <script src="https://dev.vdocipher.com/playerAssets/1.6.10/vdo.js"></script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+
+<!-- A tag <script> comporta um atributo src que referencia a URL de um arquivo integrando um código JavaScript.-->
+
+<script src="runtime.b333e8f0a40c0a971fbc.js" defer></script><script src="polyfills.b8c81bb78a01ac134b4d.js" defer></script><script src="main.5c389e8cf8f70b7f79c0.js" defer></script></body>
+
+</html>
