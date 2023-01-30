@@ -1,0 +1,28 @@
+Desenvolvimento 04
+Aluno: Alex Barros
+Data: 30/01/2023
+
+Pesquise sobre padrões de projeto e escolha um para apresentar e descrever o seu 
+funcionamento. Além disso, explique quais as vantagens e desvantagens comparados a 
+outros e mostre suas referências.
+
+Abstract Factory
+Abstract factory - É um padrão de projeto criacional que facilita a composição de famílias 
+de objetos referenciados ou subordinados por intermédio de uma única interface abstrata e 
+sem a necessidade de esmiuçar a classe concreta. Para isso acrescentamos novos tipos 
+derivados sem modificar o código que usa a classe de referência.
+(https://refactoring.guru/pt-br/design-patterns/abstract-factory)
+(https://pt.wikipedia.org/wiki/Abstract_Factory)
+
+Diversos projetos iniciam buscando o Factory Method (pouco difícil e particularizável 
+por intermédio de subclasses) e progridem ao Abstract Factory, Prototype, ou Builder.
+O Builder aponta na edificação de objetos complicados gradualmente. O Abstract Factory 
+aprofunda-se em produzir famílias de objetos compatíveis. O Abstract Factory volta o 
+produto rapidamente, no entanto o Builder deixa que você efetue passos de edificação 
+na frente de trazer o produto.
+O Abstract Factory apresenta-se como uma opção para o Facade em virtude da necessidade 
+de ocultar do código cliente a maneira em que são gerados os objetos do subsistema.
+(https://refactoring.guru/pt-br/design-patterns/abstract-factory)
+
+
+
